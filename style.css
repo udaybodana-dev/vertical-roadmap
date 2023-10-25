@@ -170,14 +170,22 @@ body {
         left: 0 !important;
         right: auto !important;
     }
+
+    .designer-copyright {
+        text-align: center;
+        padding: 20px 10px;
+        font-size: 0.75rem;
+        margin-top: 60px;
+        white-space: nowrap;
+    }
 }
 
 .designer-copyright {
     margin-top: 100px;
-    padding: 40px;
+    padding: 40px 20px;
     font-size: 0.85rem;
     color: rgba(255, 255, 255, 0.2);
-    text-align: right;
+    text-align: center;
     width: 100%;
     font-weight: 500;
     letter-spacing: 1px;
