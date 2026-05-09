@@ -2,6 +2,8 @@
 
 A sleek and interactive vertical timeline design tailored to showcase step-by-step journeys or project paths. Features a glowing center track and beautifully animated milestones.
 
+`Documentation Update (2026): Added live deployment link -`  https://udaybodana-dev.github.io/vertical-roadmap/
+
 ---
 
 ## ✨ Features
